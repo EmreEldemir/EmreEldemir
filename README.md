@@ -2,15 +2,10 @@
 
 <!-- <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="275" height="245"/> -->
 
-- Software Developer | Computer Science & Engineering
 
----
+I am a software developer working in the field of web technologies and backend development with ASP.NET Core and Java Spring Framework. Utilizing Docker, Git, DB management tools, and embracing agile methodologies. Adhering to OOP, SOLID, Clean Code etc. principles. 
 
-- **Front‑End & Back-End:** .NET, React, Java, JavaScript <br>
-- **Database:** SQL Server, MySQL <br>
-- **Mobile (Android):** Kotlin, Java <br>
-- **Principles:** OOP, SOLID, Clean Code, Agile Methodology <br>
-- **Others:** Git VCS, WSL (Ubuntu), Figma (GUI)
+Aiming to develop myself further with microservices, cloud technologies, and innovative solutions.
 
 ---
 
